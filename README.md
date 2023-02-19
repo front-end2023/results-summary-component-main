@@ -1,6 +1,6 @@
 # Frontend Mentor - Results summary component
 
-![Design preview for the Results summary component coding challenge](./final result/My work preview 1)(./final result/My work preview 2)
+![Design preview for the Results summary component coding challenge](./final result/My work preview 1)
 
 ## Welcome! 👋
 
