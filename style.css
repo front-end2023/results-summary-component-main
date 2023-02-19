@@ -168,10 +168,16 @@ button{
     cursor: pointer;
 }
 @media (max-width:550px){
+    body{
+        height: 130vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
     .container{
         flex-direction: column;
         width: 375px;
-        height: 100vh;
+        height: 60vh;
     }
     .container .result,
     .container .summary{
