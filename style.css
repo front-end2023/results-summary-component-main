@@ -23,8 +23,8 @@ body{
 }
 .container{
     display: flex;
-    width: 500px;
-    height: 60%;
+    width: 700px;
+    height: 40%;
     background: white;
     box-shadow: 5px 10px 15px hsla(252, 100%, 67%, 0.247);
     border-radius: 30px;
@@ -44,8 +44,8 @@ body{
     margin: 15px;
 }
 .container .circule{
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
     display: flex;
     flex-direction: column;
@@ -169,7 +169,7 @@ button{
 }
 @media (max-width:550px){
     body{
-        height: 130vh;
+        height: 100vh;
         display: flex;
         flex-direction: column;
         justify-content: space-between;
@@ -177,7 +177,7 @@ button{
     .container{
         flex-direction: column;
         width: 375px;
-        height: 60vh;
+        height: 100vh;
     }
     .container .result,
     .container .summary{
